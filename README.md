@@ -1,7 +1,7 @@
 # SQL-Project.sql
 This is a Data Analytics Project using SQL. This project has been done in partial fulfilment of one of the requirements for the completion of the SQL course for the award of a Certification in Data Analytics. By so doing it is to ensure a mastering of Data Analysis using SQL as the main objective.
 
-# PROJECT REQUIREMENTS
+## PROJECT REQUIREMENTS
 As a junior data analyst at Pizza Palace, a renowned pizza chain known for its delicious varieties
 of pizzas, you have been tasked with producing a comprehensive report for the manager to
 understand the business performance. Using SQL, you will analyse various aspects of Pizza
